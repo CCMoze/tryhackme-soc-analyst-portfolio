@@ -26,7 +26,7 @@ The main job is **triage**, not solving every incident.
 
 ---
 
-## SOC Team Structure
+### SOC Team Structure
 - L1 Analyst → Handles alerts  
 - L2 Analyst → Investigates deeper threats  
 - SOC Engineer → Maintains tools  
@@ -35,7 +35,7 @@ The main job is **triage**, not solving every incident.
 
 ---
 
-## Alert Workflow
+### Alert Workflow
 1. Activity is detected  
 2. Alert is generated  
 3. Analyst investigates  
