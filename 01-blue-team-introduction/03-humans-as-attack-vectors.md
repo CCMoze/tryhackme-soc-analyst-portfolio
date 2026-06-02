@@ -81,7 +81,7 @@ Educating users is one of the most effective defenses
 
 ---
 
-## Practice & Screenshots
+## Exercise Screenshots
 For this lab, imagine yourself as a SOC analyst at TryHackMe. Open the security dashboard by clicking the View Site button, protect your coworkers at Employees at Risk, and make TryHackMe more secure at Security Policy tab. Once completed, claim the flags and answer the task questions!
 
 <img width="900" height="400" alt="image" src="https://github.com/user-attachments/assets/6162bb9f-9fd6-4564-927e-cf75f843de55" />
