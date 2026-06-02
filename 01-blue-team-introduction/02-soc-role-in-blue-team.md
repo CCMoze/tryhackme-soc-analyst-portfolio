@@ -80,10 +80,13 @@ Additional concept:
 
 ---
 
-## Screenshots
+## Exercise Screenshots
+Seven security tasks require an action, and you have to choose the right people to deal with every one of them.
 
-<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/4a6d36be-a7a3-4ae4-972f-5bfd480f29df" />
-<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/023a84d5-c79a-4493-99c7-c306e5ee0099" />
+Observe the roles on the top, drag the correct roles, and drop it on the corresponding scenario below.
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/4a6d36be-a7a3-4ae4-972f-5bfd480f29df" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/023a84d5-c79a-4493-99c7-c306e5ee0099" />
 
 
 ---
