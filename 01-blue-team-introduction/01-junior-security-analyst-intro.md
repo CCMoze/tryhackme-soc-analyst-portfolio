@@ -43,7 +43,7 @@ The main job is **triage**, not solving every incident.
 5. Escalate or close  
 
 ✅ Key Idea:  
-Not all alerts are real and filtering false positives is important.
+Not all alerts are real, and filtering false positives is important.
 
 ---
 
@@ -56,12 +56,12 @@ Not all alerts are real and filtering false positives is important.
 
 ---
 
-## Screenshots
-<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/87596800-6742-43b2-a308-12f55dea29d7" />
-<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/d4a35f07-fc6b-4767-bbf0-71e537eb3b0c" />
-<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/646c5342-5cdb-4128-bf41-95280b82b8ab" />
-<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/21fd9791-ecf6-40e0-92c3-8753e3a512ea" />
-<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/f92a2db3-48b9-4d7d-a115-871771d322b7" />
+## Exercise Screenshots
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/87596800-6742-43b2-a308-12f55dea29d7" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/d4a35f07-fc6b-4767-bbf0-71e537eb3b0c" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/646c5342-5cdb-4128-bf41-95280b82b8ab" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/21fd9791-ecf6-40e0-92c3-8753e3a512ea" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/f92a2db3-48b9-4d7d-a115-871771d322b7" />
 
 ---
 
